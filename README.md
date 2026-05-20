@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @Nabil-Aufa
-- 👀 I’m interested in Information Technologies
-- 🌱 I’m currently learning C++
-- I want to be expert in computer things
+# Hi, I'm Nabil 👋
 
-Nabil Aufa Danaputra 
-Teknologi Informasi UGM 2024
+I'm learning full-stack development by building real projects.
 
-<!---
-Nabil-Aufa/Nabil-Aufa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently focused on:
+- Habit & Fitness tracking apps
+- Productivity systems
+- Frontend development
+- Backend with Supabase
+
+## 🚀 Main Project
+
+### From Zero to Hero
+
+A Daily tracking app designed to help users stay consistent with their personal growth journey.
+
+Current features:
+- Habit tracking
+- Task tracking
+- Custom workout plans: Weight training and cardio support
+- Dashboard priority system
+- Personal progress tracking
+
+Tech stack:
+- React
+- Tailwind CSS
+- Supabase
+- GitHub
+
+> This project is currently private while still in development.
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Supabase
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Full-stack web development
+- Database structure
+- Authentication
+- Clean UI/UX
+- Better project documentation
+
+## 🎯 Goal
+
+To build useful apps that solve real problems and improve consistency in daily life.
