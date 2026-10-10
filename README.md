@@ -1,72 +1,33 @@
 <div align="center">
 
-# Hi, I'm Nabil 👋
+<img src="assets/6a3e0496-7f51-4feb-9f1f-c9c81a95efa2.png" width="100%" alt="Hi! You really need to meet Nabil Aufa" />
 
-**IT Student @ Universitas Gadjah Mada · Web3 Builder on Stellar · Designer**
+<img src="assets/95a08e0b-3ddf-4272-8961-0040911ee614.png" width="100%" alt="IT Student at UGM, Builder on Stellar, Graphic Designer" />
 
-I build on-chain products end to end, from the smart contract to the landing page.
+<img src="assets/ca806779-410f-4a7b-bbb8-80e9c89f29bd.png" width="100%" alt="Built for Stellar Instawards: Forepay, Sterun, Sterish" />
 
-</div>
+<sub>
+<a href="https://github.com/forepay-stellar/forepay">Forepay</a> ·
+<a href="https://github.com/AncungAulia/sterun">Sterun</a> ·
+<a href="https://github.com/Lin1er/sterish">Sterish</a>
+</sub>
 
----
+<img src="assets/9e9e7e52-adad-4469-a9dc-20eb45a3791c.png" width="100%" alt="Other projects: Corolary, Nokturn, Aksesin" />
 
-## 🧑‍💻 About Me
+<sub>
+<a href="https://github.com/Nabil-Aufa/Corolary">Corolary</a> ·
+<a href="https://github.com/wngstnr-code/nokturn">Nokturn</a> ·
+<a href="https://github.com/Nabil-Aufa/aksesin">Aksesin</a>
+</sub>
 
-- 🎓 Information Technology student at **Universitas Gadjah Mada (UGM)**
-- 🌌 Building on **Stellar & Soroban**, currently building **Forepay**, **Sterun**, and **Sterish** for **Stellar Instawards**
-- 🎨 Designer since semester 1 for **KMTETI UGM** and **UGM Blockchain Club**
-- ⚡ I like shipping fast and polishing the UI until it feels right
+<img src="assets/371b0535-c3b3-4a88-a231-ea89d3c14ee8.png" width="100%" alt="My stack: Stellar, Rust, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js, Node.js, Supabase, C#, C++, AWS, Figma, Canva, Git, GitHub, VS Code" />
 
-## 🚀 Featured Projects
+<img src="assets/a4c29b1e-5152-4df1-9849-0712609862a7.png" width="100%" alt="Let him cook: GitHub contribution stats" />
 
-### 🌌 Stellar Instawards
+<img src="assets/89989f87-f2e3-4e43-a6dd-536480218722.png" width="100%" alt="Let's touch grass" />
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Forepay**](https://github.com/forepay-stellar/forepay) | zkTLS revenue-backed lending for creators: privately prove ad revenue with Reclaim zkTLS, verify it on-chain via Soroban, and receive a USDC advance with no collateral and no shared credentials. Funded through **Stellar Instawards** (Ambassador Chapter Indonesia). | Soroban (Rust), Reclaim zkTLS, Next.js, TypeScript |
-| [**Sterun**](https://github.com/AncungAulia/sterun) | Verified race records as non-transferable tokens on Stellar, so a runner's finish can't be sold and anyone can verify it without a wallet. Includes a runner/organiser web app, scanner PWA, and an npm SDK. Built for **Stellar Instawards**. | Soroban (Rust), Fastify, Next.js, TypeScript |
-| [**Sterish**](https://github.com/Lin1er/sterish) | Audited skill marketplace for AI agents: an on-chain skill registry, a three-stage audit pipeline with verdicts hashed on-chain, trust scoring, and x402 pay-per-use licensing in USDC. Built for **Stellar Instawards**. | Soroban (Rust), Python, FastAPI, Next.js |
-
-### 🔗 Other Web3 & Web Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Corolary**](https://github.com/Nabil-Aufa/Corolary) | Portable on-chain credit score built from a wallet's real Ethereum lending history (Aave, Compound, Morpho, SparkLend), so trusted borrowers lock less collateral, from 150% down to 110%. Built for BUIDL CTC 2026 on Creditcoin. | Solidity, Foundry, Next.js, Hono |
-| [**Nokturn**](https://github.com/wngstnr-code/nokturn) | Intent-based batch settlement for tokenized equities on Robinhood Chain: nets opposing orders at one clearing price and routes only the remainder to Uniswap V3, with a verifiable baseline on every fill. | Solidity, Foundry, Fastify, Next.js |
-| [**Aksesin**](https://github.com/Nabil-Aufa/aksesin) | Web platform that helps people, especially wheelchair users, find places and check how accessible they are based on their own needs. | Web |
-
-## 🛠 Tech Stack
-
-**Web3:** Stellar · Soroban · Rust<br>
-**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Three.js<br>
-**Backend & Data:** Node.js · Supabase<br>
-**Other:** C# / WPF · C++ · AWS<br>
-**Design:** Figma · Canva<br>
-**Tools:** Git · GitHub · VS Code
-
-## 📚 Currently Exploring
-
-- Smart contract development on Soroban
-- On-chain reputation and payments
-- Cloud computing on AWS
-- Human-centered UI/UX
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nabil-Aufa&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Aufa&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-## 📫 Reach Me
-
-- ✉️ nabilaufadanaputra2005@mail.ugm.ac.id
-- 🐙 [github.com/Nabil-Aufa](https://github.com/Nabil-Aufa)
-
-<div align="center">
-
-*Building useful things, one commit at a time.* 🚀
+<a href="mailto:nabilaufadanaputra2005@mail.ugm.ac.id"><b>EMAIL ↗</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/Nabil-Aufa"><b>GITHUB ↗</b></a> &nbsp;·&nbsp;
+<a href="https://instagram.com/nabil.audz"><b>INSTAGRAM ↗</b></a>
 
 </div>
