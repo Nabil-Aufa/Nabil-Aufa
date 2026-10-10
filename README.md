@@ -13,20 +13,27 @@ I build on-chain products end to end, from the smart contract to the landing pag
 ## 🧑‍💻 About Me
 
 - 🎓 Information Technology student at **Universitas Gadjah Mada (UGM)**
-- 🌌 Building on **Stellar & Soroban**, currently focused on **Forepay** through the **Stellar Community Fund (SCF) Instawards**
+- 🌌 Building on **Stellar & Soroban**, currently building **Forepay**, **Sterun**, and **Sterish** for **Stellar Instawards**
 - 🎨 Designer since semester 1 for **KMTETI UGM** and **UGM Blockchain Club**
 - ⚡ I like shipping fast and polishing the UI until it feels right
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
+### 🌌 Stellar Instawards
+
+| Project | What it does | Stack |
 |---|---|---|
-| [**Forepay**](https://github.com/forepay-stellar/forepay) | Web3 payments project, funded through SCF Instawards | Stellar, Soroban |
-| [**Sterun**](https://github.com/AncungAulia/sterun) | Verified race records on Stellar | Stellar, Web |
-| [**Sterish**](https://github.com/Lin1er/sterish) | Stellar-based project | Stellar |
-| [**Corolary**](https://github.com/Nabil-Aufa/Corolary) | On-chain lending reputation | Web3, Frontend |
-| [**Aksesin**](https://github.com/Nabil-Aufa/aksesin) | Wheelchair accessibility info platform | Web |
-| [**Nokturn**](https://github.com/wngstnr-code/nokturn) | Web app development final project | Web |
+| [**Forepay**](https://github.com/forepay-stellar/forepay) | zkTLS revenue-backed lending for creators: privately prove ad revenue with Reclaim zkTLS, verify it on-chain via Soroban, and receive a USDC advance with no collateral and no shared credentials. Funded through **Stellar Instawards** (Ambassador Chapter Indonesia). | Soroban (Rust), Reclaim zkTLS, Next.js, TypeScript |
+| [**Sterun**](https://github.com/AncungAulia/sterun) | Verified race records as non-transferable tokens on Stellar, so a runner's finish can't be sold and anyone can verify it without a wallet. Includes a runner/organiser web app, scanner PWA, and an npm SDK. Built for **Stellar Instawards**. | Soroban (Rust), Fastify, Next.js, TypeScript |
+| [**Sterish**](https://github.com/Lin1er/sterish) | Audited skill marketplace for AI agents: an on-chain skill registry, a three-stage audit pipeline with verdicts hashed on-chain, trust scoring, and x402 pay-per-use licensing in USDC. Built for **Stellar Instawards**. | Soroban (Rust), Python, FastAPI, Next.js |
+
+### 🔗 Other Web3 & Web Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Corolary**](https://github.com/Nabil-Aufa/Corolary) | Portable on-chain credit score built from a wallet's real Ethereum lending history (Aave, Compound, Morpho, SparkLend), so trusted borrowers lock less collateral, from 150% down to 110%. Built for BUIDL CTC 2026 on Creditcoin. | Solidity, Foundry, Next.js, Hono |
+| [**Nokturn**](https://github.com/wngstnr-code/nokturn) | Intent-based batch settlement for tokenized equities on Robinhood Chain: nets opposing orders at one clearing price and routes only the remainder to Uniswap V3, with a verifiable baseline on every fill. | Solidity, Foundry, Fastify, Next.js |
+| [**Aksesin**](https://github.com/Nabil-Aufa/aksesin) | Web platform that helps people, especially wheelchair users, find places and check how accessible they are based on their own needs. | Web |
 
 ## 🛠 Tech Stack
 
