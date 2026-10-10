@@ -1,52 +1,65 @@
+<div align="center">
+
 # Hi, I'm Nabil 👋
 
-I'm learning full-stack development by building real projects.
+**IT Student @ Universitas Gadjah Mada · Web3 Builder on Stellar · Designer**
 
-Currently focused on:
-- Habit & Fitness tracking apps
-- Productivity systems
-- Frontend development
-- Backend with Supabase
+I build on-chain products end to end, from the smart contract to the landing page.
 
-## 🚀 Main Project
+</div>
 
-### From Zero to Hero
+---
 
-A Daily tracking app designed to help users stay consistent with their personal growth journey.
+## 🧑‍💻 About Me
 
-Current features:
-- Habit tracking
-- Task tracking
-- Custom workout plans: Weight training and cardio support
-- Dashboard priority system
-- Personal progress tracking
+- 🎓 Information Technology student at **Universitas Gadjah Mada (UGM)**
+- 🌌 Building on **Stellar & Soroban**, currently focused on **Forepay** through the **Stellar Community Fund (SCF) Instawards**
+- 🎨 Designer since semester 1 for **KMTETI UGM** and **UGM Blockchain Club**
+- ⚡ I like shipping fast and polishing the UI until it feels right
 
-Tech stack:
-- React
-- Tailwind CSS
-- Supabase
-- GitHub
+## 🚀 Featured Projects
 
-> This project is currently private while still in development.
+| Project | What it is | Stack |
+|---|---|---|
+| [**Forepay**](https://github.com/forepay-stellar/forepay) | Web3 payments project, funded through SCF Instawards | Stellar, Soroban |
+| [**Sterun**](https://github.com/AncungAulia/sterun) | Verified race records on Stellar | Stellar, Web |
+| [**Sterish**](https://github.com/Lin1er/sterish) | Stellar-based project | Stellar |
+| [**Corolary**](https://github.com/Nabil-Aufa/Corolary) | On-chain lending reputation | Web3, Frontend |
+| [**Aksesin**](https://github.com/Nabil-Aufa/aksesin) | Wheelchair accessibility info platform | Web |
+| [**Nokturn**](https://github.com/wngstnr-code/nokturn) | Web app development final project | Web |
 
 ## 🛠 Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Supabase
-- Git & GitHub
+**Web3:** Stellar · Soroban · Rust<br>
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Three.js<br>
+**Backend & Data:** Node.js · Supabase<br>
+**Other:** C# / WPF · C++ · AWS<br>
+**Design:** Figma · Canva<br>
+**Tools:** Git · GitHub · VS Code
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- Full-stack web development
-- Database structure
-- Authentication
-- Clean UI/UX
-- Better project documentation
+- Smart contract development on Soroban
+- On-chain reputation and payments
+- Cloud computing on AWS
+- Human-centered UI/UX
 
-## 🎯 Goal
+## 📊 GitHub Stats
 
-To build useful apps that solve real problems and improve consistency in daily life.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nabil-Aufa&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Aufa&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+## 📫 Reach Me
+
+- ✉️ nabilaufadanaputra2005@mail.ugm.ac.id
+- 🐙 [github.com/Nabil-Aufa](https://github.com/Nabil-Aufa)
+
+<div align="center">
+
+*Building useful things, one commit at a time.* 🚀
+
+</div>
