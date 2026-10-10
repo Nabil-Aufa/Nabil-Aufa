@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="84" viewBox="0 0 270 84">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3f86e0"/><stop offset=".6" stop-color="#8fc0f2"/><stop offset="1" stop-color="#dcefff"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a7adb7" stop-opacity=".62"/><stop offset="1" stop-color="#727782" stop-opacity=".74"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+<filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity=".3"/></filter>
+<clipPath id="pill"><rect x="10" y="10" width="250" height="64" rx="17.9"/></clipPath>
+</defs>
+<g filter="url(#shadow)"><rect x="10" y="10" width="250" height="64" rx="17.9" fill="#7c818b"/></g>
+<g clip-path="url(#pill)">
+<rect x="10" y="10" width="250" height="64" fill="url(#sky)"/>
+<g filter="url(#blur)" fill="#fff" opacity=".85"><ellipse cx="60" cy="56" rx="55" ry="16"/><ellipse cx="198" cy="62" rx="62" ry="18"/></g>
+<rect x="10" y="10" width="250" height="64" fill="url(#glass)"/>
+<rect x="10" y="10" width="250" height="32.0" fill="url(#shine)"/>
+</g>
+<rect x="10.75" y="10.75" width="248.5" height="62.5" rx="17.2" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.5"/>
+<g fill="#fff"><path transform="translate(36.00 53.29) scale(0.03400 -0.03400)" d="M469 228C450 145 400 98 318 98C210 98 156 185 156 332C156 477 210 566 325 566C391 566 450 521 469 446H608C595 580 490 686 324 686C134 686 15 549 15 324C15 96 148 -23 322 -23C476 -23 580 77 608 228Z"/><path transform="translate(56.84 53.29) scale(0.03400 -0.03400)" d="M334 96C219 96 152 166 152 323C152 480 217 563 334 563C450 563 514 480 514 323C514 166 434 96 334 96ZM334 -23C538 -23 651 95 651 323C651 551 538 686 334 686C130 686 15 551 15 326C15 102 130 -23 334 -23Z"/><path transform="translate(79.62 53.29) scale(0.03400 -0.03400)" d="M337 549C406 549 434 512 434 460C434 409 406 372 332 372H158V549ZM546 0V188C546 266 524 299 465 318C529 341 564 401 564 472C564 582 483 664 360 664H23V0H158V260H306C386 260 410 235 410 171V0Z"/><path transform="translate(99.27 53.29) scale(0.03400 -0.03400)" d="M334 96C219 96 152 166 152 323C152 480 217 563 334 563C450 563 514 480 514 323C514 166 434 96 334 96ZM334 -23C538 -23 651 95 651 323C651 551 538 686 334 686C130 686 15 551 15 326C15 102 130 -23 334 -23Z"/><path transform="translate(122.05 53.29) scale(0.03400 -0.03400)" d="M491 0V121H162V664H23V0Z"/><path transform="translate(139.09 53.29) scale(0.03400 -0.03400)" d="M402 251H233L318 515H319ZM635 0 401 664H240L3 0H150L197 137H442L484 0Z"/><path transform="translate(160.95 53.29) scale(0.03400 -0.03400)" d="M337 549C406 549 434 512 434 460C434 409 406 372 332 372H158V549ZM546 0V188C546 266 524 299 465 318C529 341 564 401 564 472C564 582 483 664 360 664H23V0H158V260H306C386 260 410 235 410 171V0Z"/><path transform="translate(180.60 53.29) scale(0.03400 -0.03400)" d="M372 0V249L594 664H434L305 394L165 664H3L233 251V0Z"/></g>
+<path d="M213.8 50.6 L230.9 33.4 M217.8 33.4 H230.9 V46.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="butt"/>
+</svg>

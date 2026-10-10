@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="84" viewBox="0 0 192 84">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3f86e0"/><stop offset=".6" stop-color="#8fc0f2"/><stop offset="1" stop-color="#dcefff"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a7adb7" stop-opacity=".62"/><stop offset="1" stop-color="#727782" stop-opacity=".74"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+<filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity=".3"/></filter>
+<clipPath id="pill"><rect x="10" y="10" width="172" height="64" rx="17.9"/></clipPath>
+</defs>
+<g filter="url(#shadow)"><rect x="10" y="10" width="172" height="64" rx="17.9" fill="#7c818b"/></g>
+<g clip-path="url(#pill)">
+<rect x="10" y="10" width="172" height="64" fill="url(#sky)"/>
+<g filter="url(#blur)" fill="#fff" opacity=".85"><ellipse cx="44" cy="56" rx="38" ry="16"/><ellipse cx="139" cy="62" rx="43" ry="18"/></g>
+<rect x="10" y="10" width="172" height="64" fill="url(#glass)"/>
+<rect x="10" y="10" width="172" height="32.0" fill="url(#shine)"/>
+</g>
+<rect x="10.75" y="10.75" width="170.5" height="62.5" rx="17.2" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.5"/>
+<g fill="#fff"><path transform="translate(36.00 53.29) scale(0.03400 -0.03400)" d="M527 0V118H158V289H483V406H158V548H511V664H23V0Z"/><path transform="translate(54.09 53.29) scale(0.03400 -0.03400)" d="M667 0V664H467L347 177L227 664H23V0H152V453L275 0H413L537 455V0Z"/><path transform="translate(77.72 53.29) scale(0.03400 -0.03400)" d="M402 251H233L318 515H319ZM635 0 401 664H240L3 0H150L197 137H442L484 0Z"/><path transform="translate(99.58 53.29) scale(0.03400 -0.03400)" d="M162 0V664H23V0Z"/><path transform="translate(105.94 53.29) scale(0.03400 -0.03400)" d="M491 0V121H162V664H23V0Z"/></g>
+<path d="M135.7 50.6 L152.8 33.4 M139.7 33.4 H152.8 V46.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="butt"/>
+</svg>
