@@ -20,9 +20,9 @@
 <a href="https://github.com/Nabil-Aufa/aksesin">Aksesin</a>
 </sub>
 
-<img src="assets/371b0535-c3b3-4a88-a231-ea89d3c14ee8.png" width="100%" alt="My stack: Stellar, Rust, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js, Node.js, Supabase, C#, C++, AWS, Figma, Canva, Git, GitHub, VS Code" />
+<img src="assets/my-stack.svg" width="100%" alt="My stack: Stellar, Rust, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js, Node.js, Supabase, C#, C++, AWS, Figma, Canva, Git, GitHub, VS Code" />
 
-<img src="assets/a4c29b1e-5152-4df1-9849-0712609862a7.png" width="100%" alt="Let him cook: GitHub contribution stats" />
+<img src="assets/stats.svg" width="100%" alt="Let him cook: GitHub contribution stats" />
 
 <img src="assets/89989f87-f2e3-4e43-a6dd-536480218722.png" width="100%" alt="Let's touch grass" />
 
